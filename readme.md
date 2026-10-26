@@ -196,6 +196,7 @@
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **browser-use** `` [![GitHub stars](https://img.shields.io/github/stars/browser-actions/browser-use.svg?style=social)](https://github.com/browser-actions/browser-use) | 一个让 AI 智能体能够通过自然语言指令来控制和操作网络浏览器的 Python 库。代码质量高，是学习如何赋予智能体"视觉"和"双手"来与网页交互的优秀示例。        |
 | **Stage Hand** `` [![GitHub stars](https://img.shields.io/github/stars/GalaxyWeaver/stagehand.svg?style=social)](https://github.com/GalaxyWeaver/stagehand)            | 结合了 Playwright（一个强大的浏览器自动化框架）和 AI 的能力，让用户可以通过简单的自然语言命令来完成复杂的网页操作任务，极大地降低了网页自动化的门槛。 |
+| **[agent-qa](https://vostride.com)** [![GitHub stars](https://img.shields.io/github/stars/vostride/agent-qa.svg?style=social)](https://github.com/vostride/agent-qa) | 面向 Web、Android 和 iOS 的 AI 测试智能体，提供 CLI、MCP 和 Skills，结合持久记忆与经验证的自我改进复用测试经验，展示智能体在应用验证中的实践。 |
 
 #### **分类三：数据分析 (Data Analysis)**
 
